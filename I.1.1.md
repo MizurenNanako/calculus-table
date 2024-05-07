@@ -36,7 +36,7 @@ $$
 
 8.
 $$
-\int\sqrt{x^{m}}\mathrm{d}x=\dfrac{2x\sqrt{x^{m}}}{m+2},\left(m\ne2\right) 
+\int\sqrt{x^{m}}\mathrm{d}x=\dfrac{2x\sqrt{x^{m}}}{m+2},\left(m\neq 2\right) 
 $$
 
 9.
@@ -51,7 +51,7 @@ $$
 
 11.
 $$
-\int\dfrac{f'\left(x\right)}{f\left(x\right)}\mathrm{d}x=\ln|f\left(x\right) |,\left(\mathrm{d}f\left(x\right)=f'\left(x\right)\mathrm{d}x\right) 
+\int\dfrac{f'\left(x\right)}{f\left(x\right)}\mathrm{d}x=\ln|f\left(x\right)|,\left(\mathrm{d}f\left(x\right)=f'\left(x\right)\mathrm{d}x\right) 
 $$
 
 12.

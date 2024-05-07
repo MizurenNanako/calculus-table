@@ -156,7 +156,28 @@ $$
 \int\dfrac{x^{3}}{\left(a+bx\right)^{2}}\mathrm{d}x=\left(\dfrac{x^{3}}{3b}-\dfrac{3ax^{2}}{2b^{2}}-\dfrac{2a^{2}x}{b^{3}}+\dfrac{a^{3}}{b^{4}}\right)\dfrac{1}{a+bx}+\dfrac{3a^{2}}{b^{4}}\ln\left|a+bx\right|
 $$
 
+62.
+$$
+\int\dfrac{x^{3}}{\left(a+bx\right)^{3}}\mathrm{d}x=\left(\dfrac{x}{b}+\dfrac{2ax^{2}}{b^{2}}-\dfrac{2a^{2}x}{b^{3}}-\dfrac{5a^{3}}{2b^{4}}\right)\dfrac{1}{\left(a+bx\right)^{2}}-\dfrac{3a}{b^{4}}\ln\left|a+bx\right|
+$$
 
+63.
+$$
+\int\dfrac{x^{3}}{\left(a+bx\right)^{4}}\mathrm{d}x=\left(\dfrac{3ax^{2}}{b^{2}}+\dfrac{9a^{2}x}{2b^{3}}+\dfrac{11a^{3}}{6b^{4}}\right)\dfrac{1}{\left(a+bx\right)^{3}}+\dfrac{1}{b^{4}}\ln\left|a+bx\right|
+$$
 
+64.
+$$
+\int\dfrac{x^{3}}{\left(a+bx\right)^{5}}\mathrm{d}x=-\left(\dfrac{x^{3}}{b}+\dfrac{3ax^{2}}{2b^{2}}+\dfrac{a^{2}x}{b^{3}}+\dfrac{a^{3}}{4b^{4}}\right)\dfrac{1}{\left(a+bx\right)^{4}}
+$$
 
+65.
+$$
+\int\dfrac{x^{m}}{a+bx}\mathrm{d}x=\dfrac{1}{b}\left(\left(-\dfrac{a}{b}\right)^{m}\ln\left|a+bx\right|+x^{m}\cdot\sum_{k=0}^{m-1}\dfrac{1}{m-k}\left(-\dfrac{a}{bx}\right)^{k}\right) 
+$$
+
+66.
+$$
+\int\dfrac{x^{m}}{\left(a+bx\right)^{2}}\mathrm{d}x=
+$$
 
